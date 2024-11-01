@@ -15,6 +15,6 @@ USAGE: ./hunter.sh [DOMAIN...] [OPTIONS...]
  
 Installation
 
-git clone https://github.com/hash3liZer/evilginx2.git
-cd evilginx2
-make
+git clone https://github.com/KmzerSec/Recon-Bug.git
+cd Recon-Bug
+
